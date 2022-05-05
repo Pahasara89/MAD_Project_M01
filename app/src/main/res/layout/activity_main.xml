@@ -21,6 +21,6 @@
         android:layout_height="100dp"
         android:text="Button"
         tools:layout_editor_absoluteX="111dp"
-        tools:layout_editor_absoluteY="570dp" />
+        tools:layout_editor_absoluteY="69dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
