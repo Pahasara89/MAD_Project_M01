@@ -15,4 +15,28 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="189dp"
+        android:layout_height="100dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="206dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="406dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User login"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="133dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
