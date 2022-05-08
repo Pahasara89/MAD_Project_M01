@@ -1,5 +1,6 @@
 package com.example.bow_wow;
 
+//import parts
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 
